@@ -2,7 +2,7 @@
 - 👀 I’m interested in experimental prototype
 - 🌱 I’m currently learning microcontroller
 - 💞️ I’m looking to collaborate on all new hardware prototypes
-- 📫 How to reach me ...
+- 📫 How to reach me ...massimm@libero.it
 
 <!---
 massimm/massimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
